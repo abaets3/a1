@@ -1,6 +1,6 @@
 URL: https://github.com/abaets3/a1
 
-TLDR; run python main.py after all packages installed.
+TLDR; run python main.py after all packages installed and you make a plots dir.
 
 To run this code you will need to install
 numpy
@@ -13,7 +13,9 @@ You can use pip or conda or whatever you would like. I just did pip.
 
 I have included the data in the data dir, so no need to download it
 
-Once you have the correct packages installed, just run python main.py. 
+Then make a plots directory in the root, very important!
+
+Once you have the correct packages installed and the plots dir, just run python main.py. 
 This will generate ALL the charts and data used in my project write up. It will take a while to complete (10minutes+)
 If you just want to execute a small portion, you can comment out the method calls at the very bottom of main.py.
 
@@ -28,4 +30,4 @@ a few notes:
 -There will be warnings about np.ravel, should still run fine.
 
 
-TLDR; run python main.py after all packages installed.
+TLDR; run python main.py after all packages installed you make a plots dir.
